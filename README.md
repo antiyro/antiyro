@@ -7,7 +7,7 @@
 
 ---
 
-<img src="avatar.png" height="195" />&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=antiyro&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=888888&hide_title=true&hide_rank=true" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=antiyro&show_icons=true&hide_border=true&bg_color=00000000&title_color=000000&text_color=333333&icon_color=333333&hide_title=true&hide_rank=true" /><img alt="GitHub Stats" height="195" src="https://github-readme-stats.vercel.app/api?username=antiyro&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=888888&hide_title=true&hide_rank=true" /></picture>
+<p align="center"><img src="avatar.png" height="195" />&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=antiyro&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=888888&hide_title=true&hide_rank=true" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=antiyro&show_icons=true&hide_border=true&bg_color=00000000&title_color=000000&text_color=333333&icon_color=333333&hide_title=true&hide_rank=true" /><img alt="GitHub Stats" height="195" src="https://github-readme-stats.vercel.app/api?username=antiyro&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=888888&hide_title=true&hide_rank=true" /></picture></p>
 
 <br/>
 
