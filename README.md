@@ -7,15 +7,14 @@
 
 ---
 
-<table><tr><td>
-<img src="https://i.ibb.co/0Gtgk3L/GJ-m-Zw9-X0-AAKswu.png" width="140" style="border-radius: 16px;" />
-</td><td>
+<a href="https://github.com/antiyro"><img src="https://wsrv.nl/?url=https://i.ibb.co/0Gtgk3L/GJ-m-Zw9-X0-AAKswu.png&w=400&h=195&fit=cover&mask=square" height="195" /></a>&nbsp;
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=antiyro&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=888888&hide_title=true&hide_rank=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=antiyro&show_icons=true&hide_border=true&bg_color=00000000&title_color=000000&text_color=333333&icon_color=333333&hide_title=true&hide_rank=true" />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=antiyro&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=888888&hide_title=true&hide_rank=true" />
+  <img alt="GitHub Stats" height="195" src="https://github-readme-stats.vercel.app/api?username=antiyro&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=888888&hide_title=true&hide_rank=true" />
 </picture>
-</td></tr></table>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=antiyro&theme=black-ice&hide_border=true&background=00000000&ring=888888&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=888888&dates=555555" />
